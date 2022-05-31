@@ -14,3 +14,8 @@ If the letter is inside the word, it will appear on the screen. If not, the mist
 ![Desktop view](https://user-images.githubusercontent.com/98690678/170909307-b752899e-df10-4cfc-b714-2ac741ee9c56.PNG)
 ![win](https://user-images.githubusercontent.com/98690678/170909316-af6b2b1f-6fdf-48bc-886c-50d252e2d8c1.PNG)
 ![Lose](https://user-images.githubusercontent.com/98690678/170909369-a141054a-c8c0-4eb0-9769-6535fac3002c.PNG)
+
+## Bugs
+Letters of each guess are appended to the list, guessed. They are then joined together and used to check against the answer. So if the letters aren't guessed in order, the win condition will not be triggered. <span style="color:red"> Can consider using a set instead of a list, and find another way to check against answer instead of joining them together </span>
+
+
