@@ -16,7 +16,7 @@ Letters of each guess are appended to the list, guessed. They are then joined to
 ## Preview
 ![Desktop view](https://user-images.githubusercontent.com/98690678/170909307-b752899e-df10-4cfc-b714-2ac741ee9c56.PNG)
 ![win](https://user-images.githubusercontent.com/98690678/170909316-af6b2b1f-6fdf-48bc-886c-50d252e2d8c1.PNG)
-![Lose](https://user-images.githubusercontent.com/98690678/170909369-a141054a-c8c0-4eb0-9769-6535fac3002c.PNG)
+
 
 
 
